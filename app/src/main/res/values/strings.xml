@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawing App</string>
+    <string name="small_brush_description">small_brush</string>
+    <string name="medium_brush_description">medium_brush</string>
+    <string name="large_brush_description">large_brush</string>
+    <string name="brush_setting_btn_content_description">Brush Size Settings</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="canvas_background_color">#FFFFFF</color>
+    <color name="canvas_background_border">#9AA2AF</color>
+    <color name="brush_size_small">#FF666666</color>
+
+    <color name="pallet_skin">#ffcc99</color>
+    <color name="pallet_black">#000000</color>
+    <color name="pallet_red">#ff0000</color>
+    <color name="pallet_green">#00ff00</color>
+    <color name="pallet_blue">#0000ff</color>
+    <color name="pallet_yellow">#ffff00</color>
+    <color name="pallet_lollipop">#35a79c</color>
+    <color name="pallet_random">#A349B1</color>
+    <color name="pallet_white">#FFFFFF</color>
+
+    <color name="drawing_view_color">#80FFFFFF</color>
+
+</resources>
