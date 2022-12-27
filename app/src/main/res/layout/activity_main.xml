@@ -164,6 +164,15 @@
             android:contentDescription="@string/brush_setting_btn_content_description"
             android:scaleType="fitXY"
             android:src="@drawable/ic_brush" />
+
+        <ImageButton
+            android:id="@+id/ib_save"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="5dp"
+            android:contentDescription="@string/save_setting_btn_content_description"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_save" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
