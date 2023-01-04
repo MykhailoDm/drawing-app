@@ -6,4 +6,5 @@
     <string name="brush_setting_btn_content_description">Brush Size Settings</string>
     <string name="undo_btn_content_description">Undo button</string>
     <string name="save_setting_btn_content_description">Save image button</string>
+    <string name="progress_dialog_message">Please Wait…</string>
 </resources>
